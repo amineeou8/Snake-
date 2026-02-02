@@ -1,5 +1,5 @@
 # IA pour le jeu Snake - Amine
-Bienvenue sur le dépôt du projet IA Snake. Ce projet démontre mes compétences en C. 
+Bienvenue sur le dépôt du projet IA Snake. Ce projet scolaire démontre mes compétences en C. 
 L'IA analyse le plateau à chaque tour pour prendre la meilleure décision :
 
 * Elle évite les murs et son propre corps.
