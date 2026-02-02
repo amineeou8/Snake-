@@ -1,0 +1,8 @@
+# Ignorer l'exécutable final
+snake
+
+# Ignorer MON fichier objet compilé (car on a le .c)
+player.o
+
+# Ignorer les fichiers systèmes inutiles
+.DS_Store
