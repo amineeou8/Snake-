@@ -29,7 +29,7 @@ Si vous n'êtes pas sur un PC Linux standard, ouvrez le fichier Makefile et déc
 
 👤 Auteur :
 
-Amine Oudjane
+Amine 
 
 
 ![Aperçu du jeu Snake](assets/demo.png)
